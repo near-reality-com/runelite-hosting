@@ -96,8 +96,8 @@
     {
       "name": "runelite-client-shaded",
       "size": "31956992",
-      "path": "https://raw.githubusercontent.com/near-reality-com/runelite-hosting/master/stable/runelite-client-shaded-1.1.1.jar",
-      "hash": "8829cf37db50152a512c7be00c617b6740f6d899673433a96af73e6dcd5d53a3"
+      "path": "https://raw.githubusercontent.com/near-reality-com/runelite-hosting/master/stable/runelite-client-shaded-1.2.0.jar",
+      "hash": "afecf652bf89be68bfbdc93871aa068bfe93a26a27c08a64f1ee74dea13ea714"
     }
   ]
 }
