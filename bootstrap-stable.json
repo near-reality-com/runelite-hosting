@@ -94,10 +94,10 @@
   "projectVersion": "1.10.52-SNAPSHOT",
   "files": [
     {
-      "hash": "0207b743af33174b4ee129eaa47bca9892f6d875b26866f89df64618a91c5ee0",
+      "hash": "7a634fc7012757e51e46b970a725f1f0771073b0741ab791856912ed4d18c3da",
       "name": "runelite-client-shaded",
-      "path": "https://raw.githubusercontent.com/near-reality-com/runelite-hosting/master/stable/runelite-client-shaded-1.4.2.jar",
-      "size": 32181487
+      "path": "https://raw.githubusercontent.com/near-reality-com/runelite-hosting/master/stable/runelite-client-shaded-1.4.3.jar",
+      "size": 33270407
     }
   ]
 }
