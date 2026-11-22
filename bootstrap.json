@@ -1,10 +1,10 @@
 {
   "artifacts": [
     {
-      "hash": "87cc2024d207ccb924a0b26bd821e5d12da7d4d565b03b91ebd29c82c6009f8a",
-      "name": "runelite-client-shaded-1.4.18.jar",
-      "path": "https://raw.githubusercontent.com/near-reality-com/runelite-hosting/master/stable/runelite-client-shaded-1.4.18.jar",
-      "size": 36802260
+      "hash": "26847743dde46f0990979e268bd312e48cf65d8d15d32199453983eff2a52c9a",
+      "name": "runelite-client-shaded-1.4.19.jar",
+      "path": "https://raw.githubusercontent.com/near-reality-com/runelite-hosting/master/stable/runelite-client-shaded-1.4.19.jar",
+      "size": 36805506
     }
   ],
   "clientJvm17Arguments": [
@@ -70,5 +70,5 @@
     "-XX:CompileThreshold=1500"
   ],
   "updates": [],
-  "version": "1.4.18"
+  "version": "1.4.19"
 }
